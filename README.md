@@ -12,3 +12,6 @@ $x_{i+1}$
 
 步骤3：三点确定一条二次函数曲线, 可分为四种情况讨论(记红色线f(x)为目标函数, 黑色线u(x)为拟合的二次函数):
 
+<img src="https://github.com/GenjiYin/C-plus-plus-optimizer/blob/main/1.jpg" width = "400" height = "700" alt="" align=center />
+
+不断重复上述步骤, 三个点之间的距离会越来越小, 最终收敛于最小值.
